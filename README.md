@@ -1,5 +1,8 @@
 # Book_Database_Management
 
+This project creates the Relational database for Book Store Management, Where we handled all the  CRUD operations using SQL. Created the complete Backend project using Nodejs and SQL. Procedures are created for insertion and update. Api is created for each operation.
+
+
 Create the database connection in the index.js.
 
 change the username and password below line of index.js.
