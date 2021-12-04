@@ -4,6 +4,8 @@ Create the database connection in the index.js.
 
 change the username and password below line of index.js.
 
+
+
 var mysqlConnection= mysql.createConnection({
     host:'localhost',
     user:'root',
@@ -11,7 +13,10 @@ var mysqlConnection= mysql.createConnection({
 
     database:'book_management_store'
 })
+
+
 Create the tables and procedure. using above files.
+Create 3 procedure, use procedure.txt for all 3 procedures.
 We can test the api using postman.
 
 Operation can be performed are- CRUD
